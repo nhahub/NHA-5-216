@@ -13,7 +13,7 @@ Using Selenium WebDriver, we will develop automated test scripts to verify the f
 Selenium WebDriver for browser automation, a Page Object Model (POM) design to separate UI locators from test logic, and a structured test suite for organized execution and reporting.
 
 ### Technologies to Use:
-Selenium WebDriver, Test Case Development, and Python as the programming language.
+Selenium WebDriver, Test Case Development, and Java as the programming language.
 
 ---
 
